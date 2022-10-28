@@ -1,6 +1,6 @@
 #### Engineer, coder, builder. 
 
-I’m like tinkering with fullstack development and the Blockchain. I’m currently learning how to build better xdapps between Solana and Ethereum. I’m challenging myself to be more involved in the open source community. And also, to being comfortable with ***doing more interviews***.
+I like tinkering with fullstack development and the Blockchain. I’m currently learning how to build better xdapps between Solana and Ethereum. I’m challenging myself to be more involved in the open source community. And also, to being comfortable with ***doing more interviews***.
 
 DM me on LinkedIn or Discord for professional inquiries.
 
