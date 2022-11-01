@@ -4,7 +4,7 @@ I like tinkering with fullstack development and the Blockchain. Currently, I'm l
 
 DM me on [LinkedIn](https://www.linkedin.com/in/michael-lee-355430150/) or Discord (@sicueft#3091) for professional inquiries.
 
-Fun fact: I'm a Math geek. Always have been, and always will be. 
+##### Fun fact: I'm a Math geek. Always have been, and always will be. 
 
 <!---
 vlmlee/vlmlee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
