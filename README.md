@@ -1,6 +1,6 @@
 ### Engineer, coder, builder. 
 
-Working at Sabanto building software for an autonomous farming future.
+At Sabanto building software for an autonomous farming future.
 
 I like tinkering with fullstack development and the Blockchain. Currently, I'm learning how to build better xdapps between Solana and Ethereum. I’m also challenging myself to be more involved in the open source community.
 
